@@ -22,10 +22,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 Before running the tests make sure you are serving the app via `ng serve`.
 
-## Deploying to GitHub Pages
+## Road map
 
-Run `ng github-pages:deploy` to deploy to GitHub Pages.
+https://trello.com/b/O6peDnA7/clientsideroadmap For planned features, development tracking and progress in general.
 
-## Further help
+## Style guide.
 
-To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Currently the project is using Angular's official typescript style guide which can be found at https://angular.io/guide/styleguide . Further changes and adaptations will happen soon, so it suits more this instance.
